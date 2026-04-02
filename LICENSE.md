@@ -1,4 +1,4 @@
-
+# Delta Executor - #1 Fast and Reliable Roblox Executor 2026 Delta is a fast and reliable Roblox executor that provides a smooth experience with features like auto-execute, infinite scripts, and regular updates, ensuring you have the best tools to succeed in any Roblox game.
 
 
 ---
